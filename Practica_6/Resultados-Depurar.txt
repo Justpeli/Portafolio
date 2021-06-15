@@ -1,0 +1,14 @@
+﻿'Pokemon.exe' (Win32): 'C:\Users\David\source\repos\Pokemon\Debug\Pokemon.exe' cargado. Símbolos cargados.
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\ntdll.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\kernel32.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\KernelBase.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\msvcp140d.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\vcruntime140d.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\ucrtbased.dll' cargado. 
+El subproceso 0xb2c terminó con código 0 (0x0).
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\sechost.dll' cargado. 
+'Pokemon.exe' (Win32): 'C:\Windows\SysWOW64\rpcrt4.dll' cargado. 
+El subproceso 0x91c terminó con código -1073741510 (0xc000013a).
+El subproceso 0x2e28 terminó con código -1073741510 (0xc000013a).
+El subproceso 0x4b58 terminó con código -1073741510 (0xc000013a).
+El programa '[18480] Pokemon.exe' terminó con código -1073741510 (0xc000013a).
